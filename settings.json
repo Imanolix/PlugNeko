@@ -1,7 +1,7 @@
 {
 	"room": "NekoPub's Community",
 	"author": "Imanolix",
-	"icon": "https://nightbloo.github.io/plug/icons/room.png",
+	"icon": "https://raw.githubusercontent.com/Imanolix/PlugNeko/master/Test.png?token=ARxeLfudPeJheAhdMFpkl3W66BtTnwTXks5Z4QmiwA%3D%3D",
 	"css": "https://nightbloo.github.io/plug/main.css",
 	"rules": {
 		"allowAutorespond": true,
