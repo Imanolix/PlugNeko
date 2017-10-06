@@ -1,7 +1,7 @@
 {
 	"room": "NekoPub's Community",
 	"author": "Imanolix",
-	"icon": "https://raw.githubusercontent.com/Imanolix/PlugNeko/master/Test.png?token=ARxeLfudPeJheAhdMFpkl3W66BtTnwTXks5Z4QmiwA%3D%3D",
+	"icon": "https://raw.githubusercontent.com/Imanolix/PlugNeko/master/Icon.png",
 	"css": "https://nightbloo.github.io/plug/main.css",
 	"rules": {
 		"allowAutorespond": true,
@@ -26,15 +26,15 @@
 		"user": null
 	},
 	"images": {
-		"background": "https://nightbloo.github.io/plug/background/nb3DJ7.jpg",
-		"playback": "https://nightbloo.github.io/plug/background/nb3DJvideo.png",
+		"background": null,
+		"playback": null,
 		"admin": null,
 		"ambassador": null,
-		"host": "https://nightbloo.github.io/plug/icons/host.png",
-		"cohost": "https://nightbloo.github.io/plug/icons/co-host.png",
-		"manager": "https://nightbloo.github.io/plug/icons/manager.png",
-		"bouncer": "https://nightbloo.github.io/plug/icons/bouncer.png",
-		"rdj": "https://nightbloo.github.io/plug/icons/rdj.png",
+		"host": null,
+		"cohost": null,
+		"manager": null,
+		"bouncer": null,
+		"rdj": null,
 		"subscriber": null,
 		"other": null
 	},
